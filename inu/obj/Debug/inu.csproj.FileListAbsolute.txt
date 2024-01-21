@@ -1,0 +1,9 @@
+C:\Users\harry\source\repos\inu\inu\bin\Debug\inu.exe.config
+C:\Users\harry\source\repos\inu\inu\bin\Debug\inu.exe
+C:\Users\harry\source\repos\inu\inu\bin\Debug\inu.pdb
+C:\Users\harry\source\repos\inu\inu\bin\Debug\Ini.Net.dll
+C:\Users\harry\source\repos\inu\inu\obj\Debug\inu.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\inu\inu\obj\Debug\inu.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\inu\inu\obj\Debug\inu.csproj.CopyComplete
+C:\Users\harry\source\repos\inu\inu\obj\Debug\inu.exe
+C:\Users\harry\source\repos\inu\inu\obj\Debug\inu.pdb
